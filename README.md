@@ -1,2 +1,6 @@
 # LandingPage
-Sample Landing Page Built with CSS and HTML
+
+Trying to incoperate a sample landing page built by 
+basic html and flex css
+
+ 
